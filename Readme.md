@@ -1,4 +1,4 @@
-Project 1 — Pharma Knowledge RAG Assistant
+Pharma Knowledge RAG Assistant
 
 Goal: Build a chatbot that answers questions from pharma documents/data like inventory, SOH, DOI, sales, product notes, KT notes, etc.
 
