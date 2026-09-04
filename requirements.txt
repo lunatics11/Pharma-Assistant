@@ -1,0 +1,11 @@
+langchain # framework for building LLM apps and AI Workflows
+langchain-community # loaders, vector-stores, tools, etc
+langchain-openai  #connect langchain with open ai models like gpt and embedding 
+langchain-chroma # langchain and chroma vector db
+langgraph # build AI agents and workflow, allow conditional routing
+chromadb # vector DB
+pypdf #reads pdf
+python-dotenv # load things from API keys
+streamlit # quickly creates web based UI for AI and data apps
+pandas
+openpyxl # load xlsx files 

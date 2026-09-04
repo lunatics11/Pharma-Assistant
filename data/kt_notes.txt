@@ -1,0 +1,14 @@
+KT 7/17/2026:
+DOI Inventory was explained. SOH means Stock on Hand. SOO means Stock on Order.
+DOI helps estimate how many days current inventory can support demand.
+Eliquis / Apixaban / Arrotex story was discussed.
+Big 4 wholesalers were also covered.
+ 
+KT 7/21/2026:
+IQVIA data was explained from BMS point of view.
+Four ZIP files were discussed: Retail Prof, Prob, Outlets, Hosp Profits.
+PBS data and Services and Benefits sheet were discussed.
+ 
+Business rule:
+If SOH is high but DOI is low, it may mean demand or in-market movement is high compared to current stock.
+If source context is weak, assistant should say: I don't know from the provided sources.
